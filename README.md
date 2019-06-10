@@ -1,7 +1,7 @@
 # 💹 HTML Crypto Currency Chart Snippets 💹
 💹 Simple HTML Snippets to create Tickers / Charts of Cryptocurrencies with the TradingView API 💹
 
-## 💲 Crypto Currency Ticker 💲
+## [💲 Crypto Currency Ticker 💲](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Ticker)
 
 ![Crypto Currency Ticker Cryptocurrencies Chart TradingView API](Images/Crypto-Currency-Ticker.png)
 
