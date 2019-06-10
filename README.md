@@ -1,6 +1,40 @@
 # 💹 HTML Crypto Currency Chart Snippets 💹
 💹 Simple HTML Snippets to create Tickers / Charts of Cryptocurrencies with the TradingView API 💹
 
+## [💹 Candlestick Chart with Indicators 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Chart)
+
+![Crypto Currency Chart Cryptocurrencies Candle Candlestick with indicators TradingView API RSI Stoch](Images/Chart.png)
+
+```
+<div class="tradingview-widget-container">
+  <div id="tradingview_74048"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BITFINEX-IOTUSD/" rel="noopener" target="_blank"><span class="blue-text">IOTUSD Chart</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "autosize": true,
+  "symbol": "BITFINEX:IOTUSD",
+  "interval": "D",
+  "timezone": "Europe/Zurich",
+  "theme": "Dark",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": false,
+  "hide_side_toolbar": false,
+  "allow_symbol_change": true,
+  "studies": [
+    "RSI@tv-basicstudies",
+    "StochasticRSI@tv-basicstudies"
+  ],
+  "container_id": "tradingview_74048"
+}
+  );
+  </script>
+</div>
+```
+
 ## [💲 Crypto Currency Ticker 💲](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Ticker)
 
 ![Crypto Currency Ticker Cryptocurrencies Chart TradingView API](Images/Crypto-Currency-Ticker.png)
@@ -60,40 +94,6 @@
 </div>
 ```
 
-## [💹 Candle Chart with Indicators 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Chart)
-
-![Crypto Currency Chart Cryptocurrencies Candle with indicators TradingView API RSI Stoch](Images/Chart.png)
-
-```
-<div class="tradingview-widget-container">
-  <div id="tradingview_74048"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BITFINEX-IOTUSD/" rel="noopener" target="_blank"><span class="blue-text">IOTUSD Chart</span></a> by TradingView</div>
-  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
-  <script type="text/javascript">
-  new TradingView.widget(
-  {
-  "autosize": true,
-  "symbol": "BITFINEX:IOTUSD",
-  "interval": "D",
-  "timezone": "Europe/Zurich",
-  "theme": "Dark",
-  "style": "1",
-  "locale": "en",
-  "toolbar_bg": "#f1f3f6",
-  "enable_publishing": false,
-  "hide_side_toolbar": false,
-  "allow_symbol_change": true,
-  "studies": [
-    "RSI@tv-basicstudies",
-    "StochasticRSI@tv-basicstudies"
-  ],
-  "container_id": "tradingview_74048"
-}
-  );
-  </script>
-</div>
-```
-
 ## [💹 Overview Chart 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Overview-Chart)
 
 ![Crypto Currency Overview Chart Cryptocurrencies Chart TradingView API](Images/Overview-Chart.png)
@@ -131,6 +131,29 @@
   "locale": "en"
 }
   );
+  </script>
+</div>
+```
+
+## [💹 Technical Analysis 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Technical-Analysis)
+
+![Crypto Currency Technical Analysis Cryptocurrencies Symbol TradingView API](Images/Technical-Analysis.png)
+
+```
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/COINBASE-BTCUSD/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for BTCUSD</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "showIntervalTabs": true,
+  "width": "100%",
+  "colorTheme": "dark",
+  "isTransparent": false,
+  "locale": "en",
+  "symbol": "COINBASE:BTCUSD",
+  "interval": "1W",
+  "height": "100%"
+}
   </script>
 </div>
 ```
