@@ -1,9 +1,9 @@
 # 💹 HTML Crypto Currency Chart Snippets 💹
 💹 Simple HTML Snippets to create Tickers / Charts of Cryptocurrencies with the TradingView API 💹
 
-## [💹 Candle Chart with Indicators 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Chart)
+## [💹 Candlestick Chart with Indicators 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Chart)
 
-![Crypto Currency Chart Cryptocurrencies Candle with indicators TradingView API RSI Stoch](Images/Chart.png)
+![Crypto Currency Chart Cryptocurrencies Candle Candlestick with indicators TradingView API RSI Stoch](Images/Chart.png)
 
 ```
 <div class="tradingview-widget-container">
@@ -137,7 +137,7 @@
 
 ## [💹 Technical Analysis 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Technical-Analysis)
 
-![Crypto Currency Overview Chart Cryptocurrencies Chart TradingView API](Images/Technical-Analysis.png)
+![Crypto Currency Technical Analysis Cryptocurrencies Symbol TradingView API](Images/Technical-Analysis.png)
 
 ```
 <div class="tradingview-widget-container">
