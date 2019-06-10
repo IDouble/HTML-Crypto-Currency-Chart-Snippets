@@ -59,3 +59,37 @@
   </script>
 </div>
 ```
+
+## [💹 Candle Chart with Indicators 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Chart)
+
+![Crypto Currency Chart Cryptocurrencies Chart TradingView API](Images/Chart.png)
+
+```
+<div class="tradingview-widget-container">
+  <div id="tradingview_74048"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BITFINEX-IOTUSD/" rel="noopener" target="_blank"><span class="blue-text">IOTUSD Chart</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "autosize": true,
+  "symbol": "BITFINEX:IOTUSD",
+  "interval": "D",
+  "timezone": "Europe/Zurich",
+  "theme": "Dark",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": false,
+  "hide_side_toolbar": false,
+  "allow_symbol_change": true,
+  "studies": [
+    "RSI@tv-basicstudies",
+    "StochasticRSI@tv-basicstudies"
+  ],
+  "container_id": "tradingview_74048"
+}
+  );
+  </script>
+</div>
+```
