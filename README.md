@@ -36,7 +36,7 @@
 
 ## [💹 Mini Chart 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Mini-Chart)
 
-![Crypto Currency Mini Chart Cryptocurrencies Chart TradingView API](Images/Mini-Chart.png)
+![Crypto Currency Mini Chart Cryptocurrencies TradingView API](Images/Mini-Chart.png)
 
 ```
 <div class="tradingview-widget-container">
@@ -62,7 +62,7 @@
 
 ## [💹 Candle Chart with Indicators 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Chart)
 
-![Crypto Currency Chart Cryptocurrencies Chart TradingView API](Images/Chart.png)
+![Crypto Currency Chart Cryptocurrencies Candle with indicators TradingView API RSI Stoch](Images/Chart.png)
 
 ```
 <div class="tradingview-widget-container">
@@ -88,6 +88,47 @@
     "StochasticRSI@tv-basicstudies"
   ],
   "container_id": "tradingview_74048"
+}
+  );
+  </script>
+</div>
+```
+
+## [💹 Overview Chart 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Overview-Chart)
+
+![Crypto Currency Overview Chart Cryptocurrencies Chart TradingView API](Images/Overview-Chart.png)
+
+```
+<div class="tradingview-widget-container">
+  <div id="tv-medium-widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/COINBASE-BTCUSD/" rel="noopener" target="_blank"><span class="blue-text">BTC</span></a>, <a href="https://www.tradingview.com/symbols/COINBASE-ETHUSD/" rel="noopener" target="_blank"><span class="blue-text">ETH</span></a> <span class="blue-text">and</span> <a href="https://www.tradingview.com/symbols/BITFINEX-IOTUSD/" rel="noopener" target="_blank"><span class="blue-text">IOT Quotes</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.MediumWidget(
+  {
+  "container_id": "tv-medium-widget",
+  "symbols": [
+    [
+      "BTC",
+      "COINBASE:BTCUSD|12m"
+    ],
+    [
+      "ETH",
+      "COINBASE:ETHUSD|12m"
+    ],
+    [
+      "IOT",
+      "BITFINEX:IOTUSD|12m"
+    ]
+  ],
+  "greyText": "Quotes by",
+  "gridLineColor": "#e9e9ea",
+  "fontColor": "#83888D",
+  "underLineColor": "#dbeffb",
+  "trendLineColor": "#4bafe9",
+  "width": "100%",
+  "height": "100%",
+  "locale": "en"
 }
   );
   </script>
