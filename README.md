@@ -33,3 +33,29 @@
   </script>
 </div>
 ```
+
+## [💹 Mini Chart 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Mini-Chart)
+
+![Crypto Currency Mini Chart Cryptocurrencies Chart TradingView API](Images/Mini-Chart.png)
+
+```
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BITFINEX-IOTUSD/" rel="noopener" target="_blank"><span class="blue-text">IOTUSD Rates</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+  {
+  "symbol": "BITFINEX:IOTUSD",
+  "width": "100%",
+  "height": "100%",
+  "locale": "en",
+  "dateRange": "12m",
+  "colorTheme": "dark",
+  "trendLineColor": "rgba(164, 194, 244, 1)",
+  "underLineColor": "rgba(201, 218, 248, 0.15)",
+  "isTransparent": false,
+  "autosize": true,
+  "largeChartUrl": ""
+}
+  </script>
+</div>
+```
