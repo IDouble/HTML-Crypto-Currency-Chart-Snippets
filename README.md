@@ -1,2 +1,5 @@
 # 💹 HTML TradingView Crypto Currencies Snippets 💹
-💹 HTML Snippets to create Tickers / Charts of Cryptocurrencies with the TradingView API 💹
+💹 Simple HTML Snippets to create Tickers / Charts of Cryptocurrencies with the TradingView API 💹
+
+## 💹 Crypto Currency Ticker 💹
+
