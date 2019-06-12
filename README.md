@@ -189,3 +189,23 @@
   </script>
 </div>
 ```
+
+## [💲 Single Ticker 💲](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Single-Ticker)
+
+![Crypto Currency Single Ticker Cryptocurrencies Bitcoin TradingView API](Images/Single-Ticker.png)
+
+```
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/COINBASE-BTCUSD/" rel="noopener" target="_blank"><span class="blue-text">BTCUSD Rates</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js" async>
+  {
+  "symbol": "COINBASE:BTCUSD",
+  "width": "100%",
+  "colorTheme": "dark",
+  "isTransparent": false,
+  "locale": "en"
+}
+  </script>
+</div>
+```
