@@ -14,7 +14,7 @@
   new TradingView.widget(
   {
   "autosize": true,
-  "symbol": "BITFINEX:IOTUSD",
+  "symbol": "BINANCE:IOTAUSD",
   "interval": "D",
   "timezone": "Europe/Zurich",
   "theme": "Dark",
@@ -56,7 +56,7 @@
     },
     {
       "description": "",
-      "proName": "BITFINEX:IOTUSD"
+      "proName": "BINANCE:IOTAUSD"
     }
   ],
   "colorTheme": "dark",
@@ -88,7 +88,7 @@
     },
     {
       "description": "",
-      "proName": "BITFINEX:IOTUSD"
+      "proName": "BINANCE:IOTAUSD"
     }
   ],
   "colorTheme": "dark",
@@ -110,7 +110,7 @@
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BITFINEX-IOTUSD/" rel="noopener" target="_blank"><span class="blue-text">IOTUSD Rates</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
   {
-  "symbol": "BITFINEX:IOTUSD",
+  "symbol": "BINANCE:IOTAUSD",
   "width": "100%",
   "height": "100%",
   "locale": "en",
@@ -150,7 +150,7 @@
     ],
     [
       "IOT",
-      "BITFINEX:IOTUSD|12m"
+      "BINANCE:IOTAUSD|12m"
     ]
   ],
   "greyText": "Quotes by",
