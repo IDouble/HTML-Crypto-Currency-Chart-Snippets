@@ -229,3 +229,5 @@
   </script>
 </div>
 ```
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
