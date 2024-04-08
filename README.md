@@ -3,7 +3,7 @@
 
 ![Customizable Cryptocurrency Dashboard with Chart Candlestick Price Movement Volume Stoch RSI](Images/Customizable-Cryptocurrency-Dashboard-with-Chart-Binance.png)
 
-## [💹 Candlestick Chart with Indicators 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Chart)
+## [💹 Candlestick Chart with Indicators 💹](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Chart)
 
 ![Crypto Currency Chart Cryptocurrencies Candle Candlestick with indicators TradingView API RSI Stoch](Images/Chart.png)
 
@@ -37,7 +37,7 @@
 </div>
 ```
 
-## [💲 Crypto Currency Ticker 💲](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Ticker)
+## [💲 Crypto Currency Ticker 💲](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Ticker)
 
 ![Crypto Currency Ticker Cryptocurrencies Chart TradingView API](Images/Crypto-Ticker.png)
 
@@ -69,7 +69,7 @@
 </div>
 ```
 
-## [💲 Crypto Currency Ticker Tape 💲](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Ticker-Tape)
+## [💲 Crypto Currency Ticker Tape 💲](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Ticker-Tape)
 
 ![Crypto Currency Ticker Cryptocurrencies Chart TradingView API](Images/Crypto-Currency-Ticker.png)
 
@@ -102,7 +102,7 @@
 </div>
 ```
 
-## [💹 Mini Chart 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Mini-Chart)
+## [💹 Mini Chart 💹](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Mini-Chart)
 
 ![Crypto Currency Mini Chart Cryptocurrencies TradingView API](Images/Mini-Chart.png)
 
@@ -128,7 +128,7 @@
 </div>
 ```
 
-## [💹 Overview Chart 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Overview-Chart)
+## [💹 Overview Chart 💹](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Overview-Chart)
 
 ![Crypto Currency Overview Chart Cryptocurrencies Chart TradingView API](Images/Overview-Chart.png)
 
@@ -169,7 +169,7 @@
 </div>
 ```
 
-## [💹 Technical Analysis 💹](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Technical-Analysis)
+## [💹 Technical Analysis 💹](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Technical-Analysis)
 
 ![Crypto Currency Technical Analysis Cryptocurrencies Symbol TradingView API](Images/Technical-Analysis.png)
 
@@ -192,7 +192,7 @@
 </div>
 ```
 
-## [💲 Single Ticker 💲](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Single-Ticker)
+## [💲 Single Ticker 💲](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Single-Ticker)
 
 ![Crypto Currency Single Ticker Cryptocurrencies Bitcoin TradingView API](Images/Single-Ticker.png)
 
@@ -212,7 +212,7 @@
 </div>
 ```
 
-## [💲 Symbol Info 💲](https://ayidouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Symbol-Info)
+## [💲 Symbol Info 💲](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Symbol-Info)
 
 ![Crypto Currency Symbol Info Cryptocurrencies Bancor BNT TradingView API](Images/Symbol-Info.png)
 
