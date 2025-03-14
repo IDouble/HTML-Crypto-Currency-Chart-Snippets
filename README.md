@@ -109,10 +109,10 @@
 ```
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BITFINEX-IOTUSD/" rel="noopener" target="_blank"><span class="blue-text">IOTUSD Rates</span></a> by TradingView</div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">IDEXUSD Rates</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
   {
-  "symbol": "BINANCE:IDEXUSD",
+  "symbol": "BINANCE:IDEXUSDT",
   "width": "100%",
   "height": "100%",
   "locale": "en",
@@ -214,7 +214,7 @@
 
 ## [💲 Symbol Info 💲](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Symbol-Info)
 
-![Crypto Currency Symbol Info Cryptocurrencies Bancor BNT TradingView API](Images/Symbol-Info.png)
+![Crypto Currency Symbol Info Cryptocurrencies IDEX TradingView API](Images/Symbol-Info.png)
 
 ```
 <div class="tradingview-widget-container">
@@ -222,7 +222,7 @@
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
   {
-  "symbol": "BINANCE:IDEXUSD",
+  "symbol": "BINANCE:IDEXUSDT",
   "width": "100%",
   "locale": "en",
   "colorTheme": "dark",
